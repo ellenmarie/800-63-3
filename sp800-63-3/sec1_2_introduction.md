@@ -85,10 +85,9 @@ adhere to the requirements of Title III of the E-Government Act,
 entitled the *Federal Information Security Modernization Act* [[FISMA]](#FISMA), and related NIST standards and guidelines. FISMA directs Federal agencies to develop, document, and implement
 agency-wide programs to provide information security for the information
 and systems that support the operations and assets of the
-agency. This includes the security authorization of IT systems that support
-digital authentication. NIST recommends that non-Federal entities
-implementing these guidelines follow equivalent standards of security
-management, security authorization, and accreditation (SA&A) to ensure the secure
+agency. This includes the security management, and security authorization and accreditation (SA&A) of IT systems that support
+digital authentication. NIST recommends that non-federal entities
+implementing these guidelines follow equivalent standards to ensure the secure
 operations of their digital systems.
 
 
